@@ -1,7 +1,3 @@
 echo "hello world"
 echo "Test commit"
 echo "Test commit 2"
-echo "Test commit 3"
-echo "Test commit 4"
-echo "Test commit 5"
-echo "Test commit 6"
